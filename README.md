@@ -1,2 +1,2 @@
 # PythonLearning
-Learning python because i am the best python coder fr
+Learning python because I am the best coder.
