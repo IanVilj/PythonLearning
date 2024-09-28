@@ -27,3 +27,20 @@ print(FatAssCat)
 print(Sarga)
 print(BweeBweeIsTheBest+FatAssCat+Sarga)
 #end of making fun of my cats
+#
+#
+#
+def myfunc():
+  global x
+  x = 'bwee bwee '
+myfunc()
+print('Python is ' + x)
+print(x)
+print(h,x)
+def bweebwee():
+    global y
+    y = "is the best"
+    print(y)
+bweebwee()
+print(x+y)
+print(y)
