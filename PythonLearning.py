@@ -19,3 +19,9 @@ print(a+b)
 print(x+y)#end of checking
 if a+b > x+y:
     print("A+B is more than x+y!")
+H = "johnny"
+print(H)
+h = " appleseed"
+print(h)
+print(H+h)
+#Guys i am like a god at coding!!
