@@ -7,3 +7,7 @@ print(x)
 y = 1050-102
 print(y)
 print(y-x)
+if x > 5:
+    print("X is more than 5!")
+if y < x:
+    print("Y is less than X!")
