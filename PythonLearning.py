@@ -27,9 +27,6 @@ print(FatAssCat)
 print(Sarga)
 print(BweeBweeIsTheBest+FatAssCat+Sarga)
 #end of making fun of my cats
-#
-#
-#
 def myfunc():
   global x
   x = 'bwee bwee '
@@ -44,3 +41,15 @@ def bweebwee():
 bweebwee()
 print(x+y)
 print(y)
+#Experimenting with strings, integers, and complex:
+print (type(x))
+print (type(h))
+print (type(H))
+print (type(a))
+#changing "a" to a complex data type
+a = complex(2035817-1203)
+print (a)
+print (type(a))
+print (a)
+import random
+print(random.randrange(-1000000, 10000000))
